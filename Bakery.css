@@ -49,9 +49,12 @@
 }
 .icons
 {
-    margin-left: 30px;    
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;   
     position: relative;
     width: 10%;  
+    gap: 20%;
 }
 .icons img
 {
